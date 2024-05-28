@@ -1,27 +1,25 @@
 {
-    "manifest_version": 2,
-    "name": "Work Mode",
+    "manifest_version": 3,
+    "name": "URL Blocker",
     "version": "1.0",
-    "description": "Block distracting websites to help you focus on work.",
+    "description": "Blocks specified URLs.",
     "permissions": [
-      "webRequest",
-      "webRequestBlocking",
-      "*://*.twitter.com/*",
-      "*://*.tiktok.com/*",
-      "*://*.4chan.org/*",
-      "*://*43things.com"
+        "declarativeNetRequest",
+        "activeTab",
+        "scripting",
+        "storage"
     ],
-    "background": {
-      "scripts": ["background.js"],
-      "persistent": true
+    "host_permissions": [
+        "*://*/*"
+    ],
+    "action": {
+        "default_popup": "popup.html"
     },
-    "browser_action": {
-      "default_popup": "popup.html",
-      "default_icon": {
-        "16": "icons/icon16.png",
-        "48": "icons/icon48.png",
-        "128": "icons/icon128.png"
-      }
+    "declarative_net_request": {
+        "rule_resources": [{
+            "id": "ruleset_1",
+            "enabled": true,
+            "path": "rules.json"
+        }]
     }
-  }
-  
+}
