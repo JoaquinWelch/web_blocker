@@ -1,0 +1,21 @@
+
+* {
+    background-color: #121212 !important;
+    color: #ffffff !important;
+    border-color: #333333 !important;
+}
+
+body {
+    background-color: #121212 !important;
+    color: #ffffff !important;
+}
+
+a {
+    color: #bb86fc !important;
+}
+
+input, textarea {
+    background-color: #333333 !important;
+    color: #ffffff !important;
+    border: 1px solid #444444 !important;
+}
