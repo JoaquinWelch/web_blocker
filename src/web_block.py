@@ -21,8 +21,8 @@ blocked_websites = [
     'funnyjunk.com', 'funnyordie.com', 'game-oldies.com', 'gamepedia.com', 'gamovideo.com', 'gawker.com', 
     'getglue.com', 'getprismatic.com', 'gigaom.com', 'gizmodo.com', 'gocomics.com', 'goodvideohost.com', 
     'gorillavid.in', 'greevid.com', 'hivereader.com', 'homestarrunner.com', 'huffingtonpost.com', 'hulu.com', 
-    'hunch.com', 'idowatch.net', 'ifttt.com', 'imgur.com', 'indieflix.com', 'indiegogo.com', 'instagram.com', 
-    'invisionfree.com', 'io9.com', 'itunes.apple.com', 'jalopnik.com', 'jezebel.com', 'jukejuice.com', 'justin.tv', 
+    'hunch.com', 'idowatch.net', 'ifttt.com', 'imgur.com', 'indieflix.com', 'indiegogo.com', 'invisionfree.com', 
+    'io9.com', 'itunes.apple.com', 'jalopnik.com', 'jezebel.com', 'jukejuice.com', 'justin.tv', 
     'kag2d.com', 'kickstarter.com', 'kinja.com', 'knowyourmeme.com', 'koalabeast.com', 'kongregate.com', 
     'kotaku.com', 'kurzweilai.net', 'launch.co', 'leetscape.com', 'letwatch.us', 'lifehacker.com', 'livejournal.com', 
     'liveleak.com', 'loadingartist.com', 'lofog.com', 'longform.org', 'makeuseof.com', 'mashable.com', 'medium.com', 
@@ -34,13 +34,13 @@ blocked_websites = [
     'overstock.com', 'pandodaily.com', 'path.com', 'pbfcomics.com', 'penny-arcade.com', 'pheed.com', 'pinboard.in', 
     'pinterest.com', 'play.google.com', 'playedto.me', 'playreplay.net', 'plus.google.com', 'polygon.com', 
     'popurls.com', 'potluck.it', 'powvideo.net', 'primeshare.tv', 'promptfile.com', 'purefreetoplay.com', 'quora.com', 
-    'qz.com', 'rapidvideo.com', 'rapidvideo.ws', 'raptr.com', 'raptu.com', 'realmofthemadgod.com', 'reddit.com', 
+    'qz.com', 'rapidvideo.com', 'rapidvideo.ws', 'raptr.com', 'raptu.com', 'realmofthemadgod.com',       
     'rottentomatoes.com', 'rsbandb.com', 'runeclan.com', 'runehead.com', 'runehints.com', 'runehq.com', 'runemonkey.net', 
     'runescape.com', 'runetrack.com', 'runetracker.org', 'runeweb.net', 'runewise.net', 'salmoneus.net', 'scape-xp.com', 
     'sendvid.com', 'shared.sx', 'sharesix.com', 'sharethis.com', 'slashdot.com', 'slashdot.org', 'slate.com', 
     'slatestarcodex.com', 'slither.io', 'smbc-comics.com', 'snapzu.com', 'snopes.com', 'sortable.com', 
     'southparkstudios.com', 'speedvid.net', 'speedvideo.net', 'spring.me', 'stagevu.com', 'steampowered.com', 'stellar.io', 
-    'store.maxdome.de', 'strawpoll', 'tiktok.com', 'snapchat.com', 'www.reddit.com'
+    'store.maxdome.de', 'strawpoll', 'tiktok.com', 'snapchat.com', 
 ]
 redirect = '127.0.0.1'
 
